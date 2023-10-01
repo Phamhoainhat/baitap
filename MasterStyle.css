@@ -1,0 +1,215 @@
+
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+
+body{
+    margin: 0px;
+    border: none;
+}
+.topMenu{
+    background-color: #515154;;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    position: fixed;
+}
+#header1{
+    float:left;
+    padding-left: 10%;
+}
+head{
+    width:15%;
+}
+#header1 img{
+    width: 150px;
+}
+
+nav{
+    width: 70%;
+    float:left;
+    text-align: center;
+    vertical-align: center;
+}
+#header2{
+    width: 15%;
+    float: right;
+}
+.navigations a{
+    position: relative;
+    font-size: 1em;
+    color: #d2d2d7;
+    text-decoration: none;
+    margin-left: 30px;
+    line-height: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.mainContent{
+    background-color: white;
+    width: 100%;
+    height:600px;
+
+}
+#newRegister{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 50px 0px 50px 0px;
+}
+
+.mainContent{
+    text-align: center;
+}
+.footer{
+    background-color: #1d1d1f;
+    width: 100%;
+    height: 500px;
+}
+#email{
+    width: 470px;
+    height: 1px;
+    border-radius: 40px 0 0 40px;
+    border: 0;
+    margin: 10px 0;
+    padding: 20px;
+    outline: none;
+    background: #fff;
+    font-size: 14px;
+}
+.formRegister .button{
+    border-radius: 40px;
+    background: #0066CC;
+    margin-left: -60px;
+    min-width: 100px;
+    padding:0 5px;
+    height: 41px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
+.footer1 img{
+    width: 180px;
+}
+.footer1{
+    float:left;
+    padding-top: 55px;
+    padding-left: 10%;
+}
+#shopdunkin4{
+    width: 330px;
+    height: 120px;
+    font: normal 14px 'Arial';
+    line-height: 24px;
+    color: #D2D2D7;
+    padding-top: 5px;
+    margin: 10px 0;
+    text-align: justify;
+}
+#logo3 img{
+    width: 55px;
+    height: 55px;
+    border: none;
+    opacity: 0.99;
+    vertical-align: middle;
+} 
+.footer2{
+    width: 245px;
+    height: 344px;
+    color: #D2D2D7;
+    float: left;
+    list-style-type: none;
+    padding-top: 55px;
+    padding-left: 50px;
+}
+.footer2 .list{
+    padding-top: 10px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 12px;
+    color: #777;
+    display: block ;
+    background: none;
+    list-style-type: none;
+}
+.title{
+    font-size: 14px;
+}
+.footer3{
+    width: 245px;
+    height: 344px;
+    color: #D2D2D7;
+    float: left;
+    list-style-type: none;
+    padding-top: 55px;
+}
+.footer3 .list{
+    padding-top: 10px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 12px;
+    color: #777;
+    display: block ;
+    list-style-type: none;
+}
+.footer4{
+    width: 245px;
+    height: 344px;
+    color: #D2D2D7;
+    float: left;
+    list-style-type: none;
+    padding-top: 55px;
+}
+.footer4 .list{
+    padding-top: 10px;
+    line-height: 30px;
+    text-align: left;
+    font-size: 12px;
+    color: #777;
+    display: block ;
+    list-style-type: none;
+}
+.footer4 .list .muahang li{
+    list-style-type: none;
+    padding-left: 15px;
+    line-height: 20px;
+    text-align: justify;
+    width: 200px;
+}
+
+/* .footerinfo{
+    width: 82%; 
+    padding-left: 9%;
+} */
+
+.footer .footerinfo{
+    line-height: 20px;
+    width: 80%;
+    padding-top: 10px;
+    float: left;
+    text-align: left;
+    font-size: 12px;
+    color: #777;
+    padding-left: 10%;
+   
+}
+.footer .description{
+    padding-top: 15px;
+    float: left;
+}
+#bocongthuong img{
+    float: right;
+    width: 139px;
+    padding-top: 20px;
+    
+}
+
+    
